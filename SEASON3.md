@@ -11,3 +11,7 @@ The server will be taken down at 12:00:00 EST (noon) for a quick change to the b
 The server will be down for approximately 10 minutes during this maintenance.
 
 Please join us in discord for discussion.
+
+## 08.10.2020:12:06:00 EST
+
+Server maintenance is complete. Backup capacity has been increased and is now hosted on another machine.
