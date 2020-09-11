@@ -21,3 +21,11 @@ Server maintenance is complete. Backup capacity has been increased and is now ho
 Scheduled downtime for 08.11.2020:12:00:00 EST
 
 The server will be going down shortly for a quick system update. The total expected downtime is 5 minutes.
+
+## 08.11.2020:12:37:00 EST
+
+Scheduled downtime was a little late today, apologies.
+
+The system has been patched and latencies seem to be reporting better in the initial client tests.
+
+Server is back up and running. Enjoy!
