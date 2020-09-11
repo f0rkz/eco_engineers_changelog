@@ -15,3 +15,9 @@ Please join us in discord for discussion.
 ## 08.10.2020:12:06:00 EST
 
 Server maintenance is complete. Backup capacity has been increased and is now hosted on another machine.
+
+## 08.11.2020:11:30:00 EST
+
+Scheduled downtime for 08.11.2020:12:00:00 EST
+
+The server will be going down shortly for a quick system update. The total expected downtime is 5 minutes.
